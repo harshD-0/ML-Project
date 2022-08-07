@@ -30,4 +30,4 @@ The data analysis mainly aims to estimate   Placement status using other feature
 
 All the model are compared with best results being-
 
-Placement status- 90.43% accuracy (Logistic Regression)
+Placement status- 84.63% accuracy (Logistic Regression)
